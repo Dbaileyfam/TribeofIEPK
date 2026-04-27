@@ -7,7 +7,7 @@
 **Artist Name:** Tribe of I  
 **Genre:** Reggae Rock  
 **Based In:** Salt Lake City, UT  
-**Years Active:** [Year - Present]
+**Years Active:** Active
 
 **Tagline:**  
 [One-sentence artist statement that captures your sound and identity.]
@@ -31,13 +31,13 @@ Suggested structure:
 ---
 
 ## Music
-**Latest Release:** [Song/EP/Album Title] - [Release Date]  
-**Streaming Links:** [Spotify] | [Apple Music] | [YouTube] | [SoundCloud]
+**Latest Release:** New music and show updates posted on social channels.  
+**Streaming Links:** Available upon request
 
 **Featured Tracks:**
-1. [Track Name] - [Mood/Style]
-2. [Track Name] - [Mood/Style]
-3. [Track Name] - [Mood/Style]
+1. Live set favorites available upon request
+2. Performance clips and updates on Instagram
+3. Additional links available for booking teams
 
 ---
 
@@ -62,8 +62,8 @@ Suggested structure:
 ## Audience & Reach
 - **Instagram:** https://www.instagram.com/thetribeofi/
 - **Facebook:** https://www.facebook.com/tribeofi
-- **Monthly Listeners:** [Insert platform + count]
-- **Email List:** [Insert count]
+- **Monthly Listeners:** Growing regional audience
+- **Email List:** Available upon request
 
 ---
 
@@ -79,10 +79,10 @@ Suggested structure:
 ---
 
 ## Booking Information
-**Booking Contact:** [Name]  
-**Email:** [Booking Email]  
-**Phone:** [Optional]  
-**Management/Publicist:** [Optional]
+**Booking Contact:** Tribe of I  
+**Email:** Available via social DM (Instagram/Facebook)  
+**Phone:** Available upon request  
+**Management/Publicist:** Independent
 
 ---
 
