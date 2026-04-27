@@ -72,6 +72,7 @@ Embed (for web pages):
 
 ## Visual Assets
 **Available Upon Request / Link Folder:**
+- Official band logo: `assets/tribe-of-i-logo.png`
 - High-resolution artist photos (portrait + live)
 - Logos and branding assets
 - Cover art
@@ -82,10 +83,7 @@ Embed (for web pages):
 ---
 
 ## Booking Information
-**Booking Contact:** Tribe of I  
 **Email:** booking@801familystudios.com  
-**Phone:** Available upon request  
-**Management/Publicist:** Independent
 
 ---
 
