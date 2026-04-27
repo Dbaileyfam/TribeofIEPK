@@ -123,6 +123,7 @@
       .epk-content > ul,
       .epk-content > .spotify-embed,
       .epk-content > .poster-grid,
+      .epk-content > .media-photos,
       .epk-content > .media-grid {
         background: rgba(18, 64, 46, 0.52);
         border: 1px solid rgba(133, 189, 157, 0.32);
@@ -243,6 +244,21 @@
         border-radius: 12px;
       }
 
+      .media-photos {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+        gap: 12px;
+        margin-bottom: 12px;
+      }
+
+      .media-photos img {
+        width: 100%;
+        aspect-ratio: 3 / 4;
+        object-fit: cover;
+        border-radius: 10px;
+        display: block;
+      }
+
       .media-grid {
         display: grid;
         grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
@@ -351,6 +367,23 @@
       </div>
 
       <h2>Media</h2>
+      <div class="media-photos">
+        <img
+          src="./assets/media/live-1.png"
+          alt="Tribe of I live on stage with crowd and bubbles"
+          loading="lazy"
+        />
+        <img
+          src="./assets/media/live-2.png"
+          alt="Tribe of I performing outdoors on stage"
+          loading="lazy"
+        />
+        <img
+          src="./assets/media/live-3.png"
+          alt="Tribe of I lead singer performing for the crowd"
+          loading="lazy"
+        />
+      </div>
       <div class="media-grid">
         <iframe
           title="Tribe of I YouTube Short 1"

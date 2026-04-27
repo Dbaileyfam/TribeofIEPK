@@ -60,6 +60,11 @@ Embed (for web pages):
 - https://youtube.com/shorts/WiNc4YSxb04?feature=share
 - https://youtube.com/shorts/QOCeF944Was?feature=share
 
+**Live photos (web EPK):**
+- `assets/media/live-1.png`
+- `assets/media/live-2.png`
+- `assets/media/live-3.png`
+
 ---
 
 ## Visual Assets
