@@ -78,14 +78,6 @@ Suggested structure:
 
 ---
 
-## Media Clips
-- `assets/media/IMG_2548.MOV`
-- `assets/media/IMG_2549.MOV`
-- `assets/media/IMG_2550.MOV`
-- `assets/media/IMG_2551.MOV`
-
----
-
 ## Booking Information
 **Booking Contact:** Tribe of I  
 **Email:** Available via social DM (Instagram/Facebook)  
