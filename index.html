@@ -23,6 +23,7 @@
         background-size: cover;
         background-position: center;
         background-attachment: fixed;
+        overflow-x: hidden;
       }
 
       .wrap {
@@ -71,13 +72,30 @@
       .logo-wrap {
         display: flex;
         justify-content: center;
-        margin: 0 0 16px;
+        align-items: center;
+        width: 100vw;
+        position: relative;
+        left: 50%;
+        transform: translateX(-50%);
+        margin: 0 0 20px;
+        padding: clamp(10px, 3vw, 28px) 0 0;
+      }
+
+      .logo-wrap a {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        line-height: 0;
       }
 
       .band-logo {
-        width: min(100%, 360px);
+        width: min(92vw, 320px);
         height: auto;
-        border-radius: 12px;
+        display: block;
+        border-radius: 0;
+        opacity: 0.9;
+        filter: drop-shadow(0 14px 28px rgba(15, 45, 85, 0.35))
+          drop-shadow(0 0 48px rgba(120, 185, 255, 0.28));
       }
 
       ul {
