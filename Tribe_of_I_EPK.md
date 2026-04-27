@@ -3,17 +3,6 @@
 
 ---
 
-## Artist Overview
-**Artist Name:** Tribe of I  
-**Genre:** Reggae Rock  
-**Based In:** Salt Lake City, UT  
-**Years Active:** Active
-
-**Tagline:**  
-[One-sentence artist statement that captures your sound and identity.]
-
----
-
 ## Short Bio (50-80 words)
 Tribe of I is a reggae rock group from Salt Lake City, Utah, known for high-energy live performances and a spiritually rooted vibe. The band blends groove-driven reggae rhythms with rock intensity to create a sound that is both uplifting and powerful. Their recent show run and festival appearances continue to build momentum across the Utah live music scene.
 
