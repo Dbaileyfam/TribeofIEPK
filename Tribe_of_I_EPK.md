@@ -63,6 +63,10 @@ Embed (for web pages):
 **Press Features:**  
 [List blogs, podcasts, radio, playlists, or interviews]
 
+**YouTube Shorts:**
+- https://youtube.com/shorts/WiNc4YSxb04?feature=share
+- https://youtube.com/shorts/QOCeF944Was?feature=share
+
 ---
 
 ## Audience & Reach
