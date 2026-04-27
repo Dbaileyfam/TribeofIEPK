@@ -72,6 +72,20 @@
         margin-top: 8px;
       }
 
+      .spotify-embed {
+        margin-top: 16px;
+        max-width: 100%;
+      }
+
+      .spotify-embed iframe {
+        display: block;
+        width: 100%;
+        max-width: 660px;
+        margin: 0 auto;
+        border: 0;
+        border-radius: 12px;
+      }
+
     </style>
   </head>
   <body>
@@ -99,10 +113,22 @@
 
       <h2>Music</h2>
       <p>
-        <strong>Latest Release:</strong> New music and show updates posted on
-        social channels.<br />
-        <strong>Streaming Links:</strong> Available upon request
+        <strong>Listen on Spotify:</strong> stream the catalog and new tracks
+        from the artist profile below.<br />
+        <strong>Elsewhere:</strong> New music and show updates also on social
+        channels.
       </p>
+      <div class="spotify-embed">
+        <iframe
+          title="Tribe of I on Spotify"
+          style="border-radius: 12px"
+          src="https://open.spotify.com/embed/artist/5Tar1xOfXyy1tPlUYIAzwt?utm_source=generator"
+          width="100%"
+          height="352"
+          allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+          loading="lazy"
+        ></iframe>
+      </div>
 
       <h2>Performance Highlights</h2>
       <ul>

@@ -32,7 +32,13 @@ Suggested structure:
 
 ## Music
 **Latest Release:** New music and show updates posted on social channels.  
-**Streaming Links:** Available upon request
+**Spotify:** https://open.spotify.com/artist/5Tar1xOfXyy1tPlUYIAzwt  
+
+Embed (for web pages):
+
+```html
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/5Tar1xOfXyy1tPlUYIAzwt?utm_source=generator" width="100%" height="352" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
 
 **Featured Tracks:**
 1. Live set favorites available upon request
