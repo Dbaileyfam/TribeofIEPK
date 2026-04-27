@@ -265,15 +265,13 @@
         aspect-ratio: 1024 / 957;
         height: auto;
         object-fit: cover;
-      }
-
-      /* Lead singer (center): skip a thin top letterbox strip only */
-      .media-photos img:nth-child(2) {
-        object-position: 50% 6%;
-      }
-
-      .media-photos img:nth-child(3) {
         object-position: center;
+      }
+
+      /* Center shot: balanced crop, then shave ~2% from top of frame (letterbox) only */
+      .media-photos img:nth-child(2) {
+        clip-path: inset(2.25% 0 0 0 round 10px);
+        -webkit-clip-path: inset(2.25% 0 0 0 round 10px);
       }
 
       .media-grid {
