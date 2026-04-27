@@ -265,6 +265,14 @@
         aspect-ratio: 1024 / 957;
         height: auto;
         object-fit: cover;
+      }
+
+      /* Lead singer (center): keep top of frame on the top of the photo so the head stays visible */
+      .media-photos img:nth-child(2) {
+        object-position: center top;
+      }
+
+      .media-photos img:nth-child(3) {
         object-position: center;
       }
 
