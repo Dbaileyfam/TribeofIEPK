@@ -5,8 +5,8 @@
 
 ## Artist Overview
 **Artist Name:** Tribe of I  
-**Genre:** [Insert genre(s)]  
-**Based In:** [City, State/Country]  
+**Genre:** Reggae Rock  
+**Based In:** Salt Lake City, UT  
 **Years Active:** [Year - Present]
 
 **Tagline:**  
@@ -15,7 +15,7 @@
 ---
 
 ## Short Bio (50-80 words)
-Tribe of I is [insert 2-3 sentence short bio]. Their sound blends [insert influences/genres] with [insert unique element], creating performances that are [insert vibe: energetic/intimate/cinematic/etc.]. With a focus on [insert themes or mission], Tribe of I is building momentum through [live shows/releases/community impact].
+Tribe of I is a reggae rock group from Salt Lake City, Utah, known for high-energy live performances and a spiritually rooted vibe. The band blends groove-driven reggae rhythms with rock intensity to create a sound that is both uplifting and powerful. Their recent show run and festival appearances continue to build momentum across the Utah live music scene.
 
 ---
 
@@ -42,10 +42,10 @@ Suggested structure:
 ---
 
 ## Performance Highlights
-- [Festival/venue/show + city + year]
-- [Festival/venue/show + city + year]
-- [Festival/venue/show + city + year]
-- [Any sold-out shows, opening slots, or notable bookings]
+- Featured on multiple live-show bills across Salt Lake City
+- Festival appearance with Zion Reggae Fest lineup
+- Consistent regional booking activity through recent season
+- Active promo cycle supported by recent show-poster campaign
 
 ---
 
@@ -102,5 +102,5 @@ Suggested structure:
 ---
 
 ## One-Line Pitch (for submissions)
-Tribe of I delivers [genre]-driven performances that fuse [influence 1] and [influence 2], offering [emotion/experience] for audiences and a standout booking option for [clubs/festivals/private events].
+Tribe of I delivers reggae rock performances with uplifting energy, groove-heavy musicianship, and a strong live presence that connects with club, festival, and community audiences.
 
