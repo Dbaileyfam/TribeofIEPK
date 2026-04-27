@@ -48,10 +48,14 @@ Embed (for web pages):
 ---
 
 ## Performance Highlights
-- Featured on multiple live-show bills across Salt Lake City
-- Festival appearance with Zion Reggae Fest lineup
-- Consistent regional booking activity through recent season
-- Active promo cycle supported by recent show-poster campaign
+- Show poster references:
+  - https://www.instagram.com/thetribeofi/p/DT3qfCajBr4/
+  - https://www.instagram.com/thetribeofi/p/DO9BY4DkaEn/
+  - https://www.instagram.com/thetribeofi/p/DNlkY_vuOYu/
+  - https://www.instagram.com/thetribeofi/p/DJ9zFsuOz-0/
+  - https://www.instagram.com/thetribeofi/p/DFLM3pZOdAT/
+- Festival poster reference:
+  - https://www.instagram.com/zionreggaefest/p/DAtgTqsPfJB/
 
 ---
 
@@ -90,7 +94,7 @@ Embed (for web pages):
 
 ## Booking Information
 **Booking Contact:** Tribe of I  
-**Email:** Available via social DM (Instagram/Facebook)  
+**Email:** booking@801familystudios.com  
 **Phone:** Available upon request  
 **Management/Publicist:** Independent
 
