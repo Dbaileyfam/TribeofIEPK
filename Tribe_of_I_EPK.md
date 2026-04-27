@@ -65,7 +65,6 @@ Embed (for web pages):
 ## Audience & Reach
 - **Instagram:** https://www.instagram.com/thetribeofi/
 - **Facebook:** https://www.facebook.com/tribeofi
-- **Monthly Listeners:** Growing regional audience
 - **Email List:** Available upon request
 
 ---
