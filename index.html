@@ -259,8 +259,9 @@
         display: block;
       }
 
-      /* Match middle photo frame to first image (1024×957); portrait source crops top/bottom */
-      .media-photos img:nth-child(2) {
+      /* Match cropped frames to first image (1024×957); portrait sources crop top/bottom */
+      .media-photos img:nth-child(2),
+      .media-photos img:nth-child(3) {
         aspect-ratio: 1024 / 957;
         height: auto;
         object-fit: cover;
@@ -382,13 +383,13 @@
           loading="lazy"
         />
         <img
-          src="./assets/media/live-2.png"
-          alt="Tribe of I performing outdoors on stage"
+          src="./assets/media/live-3.png"
+          alt="Tribe of I lead singer performing for the crowd"
           loading="lazy"
         />
         <img
-          src="./assets/media/live-3.png"
-          alt="Tribe of I lead singer performing for the crowd"
+          src="./assets/media/live-2.png"
+          alt="Tribe of I performing outdoors on stage"
           loading="lazy"
         />
       </div>
