@@ -65,6 +65,11 @@ Embed (for web pages):
 - `assets/media/live-3.png`
 - `assets/media/live-2.png`
 
+**Artwork (web EPK, under Media):**
+- `assets/media/artwork-logo-arch.png`
+- `assets/media/artwork-logo-banner.png`
+- `assets/media/artwork-elephant.png`
+
 ---
 
 ## Visual Assets

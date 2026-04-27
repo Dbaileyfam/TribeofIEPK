@@ -124,6 +124,7 @@
       .epk-content > .spotify-embed,
       .epk-content > .poster-grid,
       .epk-content > .media-photos,
+      .epk-content > .media-artwork-section,
       .epk-content > .media-grid {
         background: rgba(18, 64, 46, 0.52);
         border: 1px solid rgba(133, 189, 157, 0.32);
@@ -286,6 +287,31 @@
         border-radius: 12px;
       }
 
+      .media-artwork-section h3 {
+        margin: 0 0 12px;
+        font-size: 1.08rem;
+        letter-spacing: 0.3px;
+        color: var(--accent);
+      }
+
+      .media-artwork {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+        gap: 14px;
+        align-items: center;
+      }
+
+      .media-artwork img {
+        width: 100%;
+        height: auto;
+        max-height: 420px;
+        object-fit: contain;
+        border-radius: 10px;
+        display: block;
+        margin: 0 auto;
+        background: rgba(255, 255, 255, 0.06);
+      }
+
       .poster-grid {
         display: grid;
         grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
@@ -398,6 +424,28 @@
           loading="lazy"
         />
       </div>
+
+      <div class="media-artwork-section">
+        <h3>Artwork</h3>
+        <div class="media-artwork">
+          <img
+            src="./assets/media/artwork-logo-arch.png"
+            alt="Tribe of I arched wordmark logo"
+            loading="lazy"
+          />
+          <img
+            src="./assets/media/artwork-logo-banner.png"
+            alt="Tribe of I horizontal banner logo"
+            loading="lazy"
+          />
+          <img
+            src="./assets/media/artwork-elephant.png"
+            alt="Tribe of I elephant illustration artwork"
+            loading="lazy"
+          />
+        </div>
+      </div>
+
       <div class="media-grid">
         <iframe
           title="Tribe of I YouTube Short 1"
