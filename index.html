@@ -259,6 +259,14 @@
         display: block;
       }
 
+      /* Match middle photo frame to first image (1024×957); portrait source crops top/bottom */
+      .media-photos img:nth-child(2) {
+        aspect-ratio: 1024 / 957;
+        height: auto;
+        object-fit: cover;
+        object-position: center;
+      }
+
       .media-grid {
         display: grid;
         grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
