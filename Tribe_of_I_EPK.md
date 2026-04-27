@@ -62,13 +62,6 @@ Embed (for web pages):
 
 ---
 
-## Audience & Reach
-- **Instagram:** https://www.instagram.com/thetribeofi/
-- **Facebook:** https://www.facebook.com/tribeofi
-- **Email List:** Available upon request
-
----
-
 ## Visual Assets
 **Available Upon Request / Link Folder:**
 - Official band logo: `assets/tribe-of-i-logo.png`
@@ -83,6 +76,13 @@ Embed (for web pages):
 
 ## Booking Information
 **Email:** booking@801familystudios.com  
+**Email list:** Available upon request
+
+---
+
+## Social links
+- **Instagram:** https://www.instagram.com/thetribeofi/
+- **Facebook:** https://www.facebook.com/tribeofi
 
 ---
 
