@@ -72,6 +72,19 @@
         margin-top: 8px;
       }
 
+      .media-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+        gap: 12px;
+      }
+
+      .media-grid video {
+        width: 100%;
+        height: 340px;
+        object-fit: cover;
+        border-radius: 8px;
+      }
+
     </style>
   </head>
   <body>
@@ -117,6 +130,14 @@
         <li>Facebook: <a href="https://www.facebook.com/tribeofi">Tribe of I</a></li>
         <li>Monthly Listeners: Growing regional audience</li>
       </ul>
+
+      <h2>Media</h2>
+      <div class="media-grid">
+        <video controls preload="metadata" src="./assets/media/IMG_2548.MOV"></video>
+        <video controls preload="metadata" src="./assets/media/IMG_2549.MOV"></video>
+        <video controls preload="metadata" src="./assets/media/IMG_2550.MOV"></video>
+        <video controls preload="metadata" src="./assets/media/IMG_2551.MOV"></video>
+      </div>
 
       <h2>Booking</h2>
       <p>
