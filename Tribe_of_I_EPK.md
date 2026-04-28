@@ -65,10 +65,10 @@ Embed (for web pages):
 - `assets/media/live-3.png`
 - `assets/media/live-2.png`
 
-**Artwork (web EPK, under Media):**
+**Artwork (web EPK, under Media, left → center → right):**
 - `assets/media/artwork-logo-arch.png`
-- `assets/media/artwork-logo-banner.png`
 - `assets/media/artwork-elephant.png`
+- `assets/media/artwork-logo-banner.png`
 
 ---
 
