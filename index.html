@@ -36,6 +36,7 @@
         width: calc(100% + 48px);
         max-width: none;
         background: rgba(12, 40, 28, 0.9);
+        -webkit-backdrop-filter: blur(8px);
         backdrop-filter: blur(8px);
         border-bottom: 1px solid rgba(133, 189, 157, 0.35);
         box-shadow: 0 4px 18px rgba(0, 0, 0, 0.28);
@@ -188,6 +189,7 @@
         border: 1px solid rgba(133, 189, 157, 0.32);
         border-radius: 12px;
         padding: 12px 14px;
+        -webkit-backdrop-filter: blur(2px);
         backdrop-filter: blur(2px);
       }
 
@@ -475,6 +477,11 @@
 
       <h2 id="media">Media</h2>
       <div class="media-photos">
+        <img
+          src="./assets/media/band-photo-2026.png"
+          alt="Tribe of I full band portrait"
+          loading="lazy"
+        />
         <img
           src="./assets/media/live-1.png"
           alt="Tribe of I live on stage with crowd and bubbles"
