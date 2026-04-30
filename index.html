@@ -320,17 +320,16 @@
         display: block;
       }
 
-      /* Match cropped frames to first image (1024×957); portrait sources crop top/bottom */
-      .media-photos img:nth-child(2),
-      .media-photos img:nth-child(3) {
+      /* Keep media photos on a consistent landscape crop frame */
+      .media-photos img.media-photo--crop {
         aspect-ratio: 1024 / 957;
         height: auto;
         object-fit: cover;
         object-position: center;
       }
 
-      /* Center shot: lower Y% shifts framing so the subject reads lower in the box (higher % was wrong way) */
-      .media-photos img:nth-child(2) {
+      /* Fine-tuned framing for lead singer shot */
+      .media-photos img.media-photo--lead {
         object-position: 50% 17%;
       }
 
@@ -478,21 +477,25 @@
       <h2 id="media">Media</h2>
       <div class="media-photos">
         <img
+          class="media-photo--crop"
           src="./assets/media/band-photo-2026.png"
           alt="Tribe of I full band portrait"
           loading="lazy"
         />
         <img
+          class="media-photo--crop"
           src="./assets/media/live-1.png"
           alt="Tribe of I live on stage with crowd and bubbles"
           loading="lazy"
         />
         <img
+          class="media-photo--crop media-photo--lead"
           src="./assets/media/live-3.png"
           alt="Tribe of I lead singer performing for the crowd"
           loading="lazy"
         />
         <img
+          class="media-photo--crop"
           src="./assets/media/live-2.png"
           alt="Tribe of I performing outdoors on stage"
           loading="lazy"
