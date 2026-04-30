@@ -74,11 +74,22 @@
         margin: 0;
         font-family: "Inter", "Segoe UI", Roboto, Arial, sans-serif;
         color: var(--text);
+        background: #040806;
+        position: relative;
+        overflow-x: hidden;
+      }
+
+      body::before {
+        content: "";
+        position: fixed;
+        inset: 0;
+        z-index: -1;
         background-image: url("./assets/tribe-of-i-bg.png");
         background-size: cover;
-        background-position: center;
-        background-attachment: fixed;
-        overflow-x: hidden;
+        background-position: center center;
+        background-repeat: no-repeat;
+        transform: translateZ(0);
+        will-change: transform;
       }
 
       .wrap {
@@ -159,11 +170,6 @@
       }
 
       @media (max-width: 900px) {
-        body {
-          background-attachment: scroll;
-          background-position: center top;
-        }
-
         .hero-copy {
           background: rgba(8, 20, 14, 0.62);
         }
